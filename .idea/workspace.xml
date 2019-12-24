@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="83e985b0-97ea-425f-aa12-6b7b612a4413" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Person.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Person.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Person.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +58,11 @@
       <updated>1574255836540</updated>
       <workItem from="1574255838888" duration="16592000" />
       <workItem from="1574886124340" duration="581000" />
-      <workItem from="1574945334021" duration="4882000" />
+      <workItem from="1574945334021" duration="5103000" />
+      <workItem from="1575368773734" duration="2897000" />
+      <workItem from="1575555036754" duration="394000" />
+      <workItem from="1575709592317" duration="3073000" />
+      <workItem from="1577091371773" duration="5355000" />
     </task>
     <servers />
   </component>
